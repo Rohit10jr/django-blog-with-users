@@ -51,9 +51,9 @@ The iCoder Blog is a feature-rich blog application developed using Django, a pop
 ## Usage
 
 1. Run the application:
-```bash
+```
    python manage.py runserver
-
+```
 2. Access the iCoder Blog at http://localhost:8000 in your web browser.
 3. Sign up for an account to create and manage your blog posts.
 4. Explore the features, create posts, manage comments, and customize your blog.
