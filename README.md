@@ -34,18 +34,18 @@ The iCoder Blog is a feature-rich blog application developed using Django, a pop
 ## Getting Started
 
 1. Clone this repository to your local machine:
-```bash
+```
    git clone https://github.com/yourusername/icoder-blog.git
-   
+```
 2. Install the required Python dependencies using pip:
-```bash
+```
    pip install -r requirements.txt
-
+```
 3. git clone https://github.com/Rohit10jr/icoder-blog.git
-```bash
+```
    python manage.py makemigrations
    python manage.py migrate
-
+```
 4. Configure the settings in the project, such as database connection, secret key, and other environment-specific variables.
 
 ## Usage
