@@ -41,7 +41,7 @@ The iCoder Blog is a feature-rich blog application developed using Django, a pop
   ```bash
    pip install -r requirements.txt
 
-3. git clone https://github.com/yourusername/icoder-blog.git
+3. git clone https://github.com/Rohit10jr/icoder-blog.git
 ```bash
   python manage.py makemigrations
   python manage.py migrate
