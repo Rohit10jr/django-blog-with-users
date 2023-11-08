@@ -20,11 +20,9 @@ The iCoder Blog is a feature-rich blog application developed using Django, a pop
 - User roles with customizable permissions.
 - Categories and tags for organizing posts.
 - Media management for post images and files.
-- Secure session management and password reset functionality.
-- Customizable theme and templates.
 - Advanced search and filtering options.
 - Django admin panel for easy content management.
-- Extensible structure for adding more features or customizations.
+
 
 ## Prerequisites
 
