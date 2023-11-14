@@ -2,6 +2,8 @@
 
 The iCoder Blog is a feature-rich blog application developed using Django, a popular Python web framework. This project provides a foundation for creating, managing, and sharing blog posts with an engaging and user-friendly interface.
 
+![Screenshot (546)](https://github.com/Rohit10jr/icoder-blog/assets/130643902/17dd6468-51ec-4f58-928b-d24b448f8269)
+
 ## Table of Contents
 
 - [Features](#features)
